@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ujpjm30/DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/ujpjm30/DSA/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/ujpjm30/DSA/tree/master/1827-invalid-tweets) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/ujpjm30/DSA/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/ujpjm30/DSA/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
