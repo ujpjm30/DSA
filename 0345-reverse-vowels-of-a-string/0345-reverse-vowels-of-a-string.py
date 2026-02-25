@@ -1,7 +1,10 @@
 class Solution:
     def reverseVowels(self, s: str) -> str:
         # 1. 모음들만 순서대로 뽑아서 리스트 만들기
-        vowels = [ch for ch in s if ch.lower() in 'aeiou']
+        vowels = []
+        for ch in s:
+            if ch.lower() in 'aeiou':
+                vowels.append(ch)
         # 2. 그 모음 리스트를 뒤집기
         vowels.reverse()
 
