@@ -11,5 +11,5 @@ class Solution:
         for i in range(len(nums) -1, -1, -1):
             answer[i] *= right
             right *= nums[i]
-        
+
         return answer
