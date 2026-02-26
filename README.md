@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ujpjm30/DSA/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujpjm30/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ujpjm30/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ujpjm30/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ujpjm30/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ujpjm30/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ujpjm30/DSA/tree/master/1777-determine-if-two-strings-are-close) |
