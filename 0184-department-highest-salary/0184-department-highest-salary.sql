@@ -1,20 +1,5 @@
 # Write your MySQL query statement below
-select d.name as Department, e.name as Employee, e.salary as Salary
-
-from Employee e
-
-join (
-
-    select departmentId, max(salary) as max_salary
-
-    from Employee
-
-    group by departmentId
-
-) x
-
-on e.departmentId = x.departmentId
-
-and e.salary = x.max_salary
-
-join Department d on e.departmentId = d.id;
+select Department.name as Department, Employee.name as Employee, Employee.salary as Salary
+from Employee
+join (select departmentId, max(salary) as max_salary from Employee group by departmentId) x on Employee.departmentId = x.departmentId and Employee.salary = x.max_salary
+join Department on Employee.departmentId = Department.id;
