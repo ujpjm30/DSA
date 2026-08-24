@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ujpjm30/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ujpjm30/DSA/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/ujpjm30/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ujpjm30/DSA/tree/master/0283-move-zeroes) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ujpjm30/DSA/tree/master/0001-two-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ujpjm30/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
