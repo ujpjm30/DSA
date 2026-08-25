@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ujpjm30/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ujpjm30/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ujpjm30/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/ujpjm30/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ujpjm30/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ujpjm30/DSA/tree/master/0724-find-pivot-index) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ujpjm30/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ujpjm30/DSA/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ujpjm30/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ujpjm30/DSA/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ujpjm30/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ujpjm30/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ujpjm30/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
@@ -210,4 +214,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ujpjm30/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
