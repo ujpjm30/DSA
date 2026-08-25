@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/ujpjm30/DSA/tree/master/0649-dota2-senate) |
 | [0937-reorder-data-in-log-files](https://github.com/ujpjm30/DSA/tree/master/0937-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ujpjm30/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/ujpjm30/DSA/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ujpjm30/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/ujpjm30/DSA/tree/master/1768-merge-strings-alternately) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ujpjm30/DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/ujpjm30/DSA/tree/master/0937-reorder-data-in-log-files) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujpjm30/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ujpjm30/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/ujpjm30/DSA/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ujpjm30/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ujpjm30/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ujpjm30/DSA/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/ujpjm30/DSA/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ujpjm30/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ujpjm30/DSA/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0937-reorder-data-in-log-files](https://github.com/ujpjm30/DSA/tree/master/0937-reorder-data-in-log-files) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/ujpjm30/DSA/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ujpjm30/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ujpjm30/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
