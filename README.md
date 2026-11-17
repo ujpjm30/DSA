@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ujpjm30/DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ujpjm30/DSA/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/ujpjm30/DSA/tree/master/0649-dota2-senate) |
+| [0692-top-k-frequent-words](https://github.com/ujpjm30/DSA/tree/master/0692-top-k-frequent-words) |
 | [0937-reorder-data-in-log-files](https://github.com/ujpjm30/DSA/tree/master/0937-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ujpjm30/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/ujpjm30/DSA/tree/master/1152-analyze-user-website-visit-pattern) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/ujpjm30/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ujpjm30/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/ujpjm30/DSA/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/ujpjm30/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ujpjm30/DSA/tree/master/0735-asteroid-collision) |
 | [0937-reorder-data-in-log-files](https://github.com/ujpjm30/DSA/tree/master/0937-reorder-data-in-log-files) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ujpjm30/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ujpjm30/DSA/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/ujpjm30/DSA/tree/master/0692-top-k-frequent-words) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/ujpjm30/DSA/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/ujpjm30/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ujpjm30/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ujpjm30/DSA/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/ujpjm30/DSA/tree/master/0692-top-k-frequent-words) |
 | [0937-reorder-data-in-log-files](https://github.com/ujpjm30/DSA/tree/master/0937-reorder-data-in-log-files) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/ujpjm30/DSA/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ujpjm30/DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/ujpjm30/DSA/tree/master/0692-top-k-frequent-words) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ujpjm30/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
@@ -234,10 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/ujpjm30/DSA/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/ujpjm30/DSA/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -246,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ujpjm30/DSA/tree/master/0056-merge-intervals) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/ujpjm30/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
