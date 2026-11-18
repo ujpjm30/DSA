@@ -233,10 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ujpjm30/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/ujpjm30/DSA/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ujpjm30/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/ujpjm30/DSA/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,4 +288,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ujpjm30/DSA/tree/master/0005-longest-palindromic-substring) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ujpjm30/DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ujpjm30/DSA/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ujpjm30/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
