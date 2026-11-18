@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujpjm30/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ujpjm30/DSA/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ujpjm30/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ujpjm30/DSA/tree/master/0283-move-zeroes) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujpjm30/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/ujpjm30/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ujpjm30/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/ujpjm30/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujpjm30/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/ujpjm30/DSA/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ujpjm30/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ujpjm30/DSA/tree/master/0146-lru-cache) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujpjm30/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
