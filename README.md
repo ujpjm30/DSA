@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ujpjm30/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ujpjm30/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/ujpjm30/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ujpjm30/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ujpjm30/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ujpjm30/DSA/tree/master/0394-decode-string) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ujpjm30/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ujpjm30/DSA/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/ujpjm30/DSA/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/ujpjm30/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/ujpjm30/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/ujpjm30/DSA/tree/master/0692-top-k-frequent-words) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/ujpjm30/DSA/tree/master/1152-analyze-user-website-visit-pattern) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ujpjm30/DSA/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/ujpjm30/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0969-number-of-recent-calls](https://github.com/ujpjm30/DSA/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ujpjm30/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/ujpjm30/DSA/tree/master/0692-top-k-frequent-words) |
 ## Merge Sort
 |  |
